@@ -9,8 +9,8 @@ Welcome to my GitHub! I am a researcher specializing in the area of Data Science
 * **Current Research:** Online Research Intern at C-DAC, focusing on Quantum Computing for Partial Differential Equations using Qiskit.
 * **Past Experience:** Completed a Quantum Research Internship at NIT Trichy, where I worked on Quantum Machine Learning and Quantum Convolutional Neural Networks (QCNNs) for Pest Prediction.
 * **Achievements:** Secured 2nd Place in the Planck'd 2025 National Level Quantum Machine Learning Hackathon (IIIT Bangalore) for QML-based Molecular Energy Prediction (H₂).
-* **Leadership & Publications:** IEEE Published Author and serving as the Head of R&D at the IEEE Robotics & Automation Society (KARE).
-* **Certifications:** PennyLane Certification in Quantum Machine Learning, alongside QWorld QBronze and QNickel Diplomas in Quantum Computing & Programming (using Qiskit).
+* **Leadership & Publications:** IEEE Published Author and serving as the Head of Research and Development at the IEEE Robotics & Automation Society (KARE).
+* **Certifications:** Introduction to PennyLane Certificate(2025), QWorld QBronze and QNickel Diplomas in Quantum Computing & Programming (using Qiskit)(2026), Java Full  Stack from Wipro(2025), Introduction to Embedded Machine Learning(2024), Oracle Cloud Infrastructure(2023).
 
 ---
 
